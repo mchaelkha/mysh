@@ -1,0 +1,5 @@
+# Ignore these files
+*.o
+mysh
+submit.txt
+revisions.txt
